@@ -1,2 +1,3 @@
 # test
-- Juat a test run to understand git commands.
+- Just a test run to understand git commands.
+- Adding this line just to create commit.
